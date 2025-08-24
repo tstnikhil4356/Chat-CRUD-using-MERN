@@ -101,9 +101,9 @@ Now open 👉 `http://localhost:3000` in your browser.
 
 ## 📸 Demo Screenshot
 
-![Home Page](./000.jpg)
+![Home Page](./000.png)
 
-![Add Chat Page](./001.jpg)
+![Add Chat Page](./001.png)
 
 ---
 
